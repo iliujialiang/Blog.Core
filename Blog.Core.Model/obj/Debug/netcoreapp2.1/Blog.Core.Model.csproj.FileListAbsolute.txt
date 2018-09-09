@@ -7,4 +7,3 @@ D:\MyProgram\MyNetCore\Blog.Core\Blog.Core.Model\obj\Debug\netcoreapp2.1\Blog.Co
 D:\MyProgram\MyNetCore\Blog.Core\Blog.Core.Model\obj\Debug\netcoreapp2.1\Blog.Core.Model.AssemblyInfo.cs
 D:\MyProgram\MyNetCore\Blog.Core\Blog.Core.Model\obj\Debug\netcoreapp2.1\Blog.Core.Model.dll
 D:\MyProgram\MyNetCore\Blog.Core\Blog.Core.Model\obj\Debug\netcoreapp2.1\Blog.Core.Model.pdb
-D:\MyProgram\MyNetCore\Blog.Core\Blog.Core.Model\obj\Debug\netcoreapp2.1\Blog.Core.Model.csprojAssemblyReference.cache

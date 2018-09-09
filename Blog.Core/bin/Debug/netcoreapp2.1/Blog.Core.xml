@@ -90,42 +90,13 @@
             签名
             </summary>
         </member>
-        <member name="T:Blog.Core.Controllers.ValuesController">
+        <member name="M:Blog.Core.Controllers.TestController.Get(System.Int32,System.Int32)">
             <summary>
-            ValueController
+            求和
             </summary>
-        </member>
-        <member name="M:Blog.Core.Controllers.ValuesController.Get">
-            <summary>
-             GET api/values
-            </summary>
-            <returns></returns>
-        </member>
-        <member name="M:Blog.Core.Controllers.ValuesController.Get(System.Int32)">
-            <summary>
-             GET api/values/5
-            </summary>
-            <param name="id"></param>
-            <returns></returns>
-        </member>
-        <member name="M:Blog.Core.Controllers.ValuesController.Post(System.String)">
-            <summary>
-             POST api/values
-            </summary>
-            <param name="value"></param>
-        </member>
-        <member name="M:Blog.Core.Controllers.ValuesController.Put(System.Int32,System.String)">
-            <summary>
-             PUT api/values/5
-            </summary>
-            <param name="id"></param>
-            <param name="value"></param>
-        </member>
-        <member name="M:Blog.Core.Controllers.ValuesController.Delete(System.Int32)">
-            <summary>
-             DELETE api/values/5
-            </summary>
-            <param name="id"></param>
+            <param name="i">参数1</param>
+            <param name="j">参数2</param>
+            <returns>返回i+j</returns>
         </member>
         <member name="T:Blog.Core.Program">
             <summary>

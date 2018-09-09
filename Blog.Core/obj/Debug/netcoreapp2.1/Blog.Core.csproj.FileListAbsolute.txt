@@ -17,3 +17,11 @@ D:\MyProgram\MyNetCore\Blog.Core\Blog.Core\bin\Debug\netcoreapp2.1\Blog.Core.Mod
 D:\MyProgram\MyNetCore\Blog.Core\Blog.Core\bin\Debug\netcoreapp2.1\Blog.Core.Model.xml
 D:\MyProgram\MyNetCore\Blog.Core\Blog.Core\obj\Debug\netcoreapp2.1\Blog.Core.csprojAssemblyReference.cache
 D:\MyProgram\MyNetCore\Blog.Core\Blog.Core\obj\Debug\netcoreapp2.1\Blog.Core.csproj.CopyComplete
+D:\MyProgram\MyNetCore\Blog.Core\Blog.Core\bin\Debug\netcoreapp2.1\Blog.Core.IRepository.dll
+D:\MyProgram\MyNetCore\Blog.Core\Blog.Core\bin\Debug\netcoreapp2.1\Blog.Core.IService.dll
+D:\MyProgram\MyNetCore\Blog.Core\Blog.Core\bin\Debug\netcoreapp2.1\Blog.Core.Repository.dll
+D:\MyProgram\MyNetCore\Blog.Core\Blog.Core\bin\Debug\netcoreapp2.1\Blog.Core.Service.dll
+D:\MyProgram\MyNetCore\Blog.Core\Blog.Core\bin\Debug\netcoreapp2.1\Blog.Core.IService.pdb
+D:\MyProgram\MyNetCore\Blog.Core\Blog.Core\bin\Debug\netcoreapp2.1\Blog.Core.Service.pdb
+D:\MyProgram\MyNetCore\Blog.Core\Blog.Core\bin\Debug\netcoreapp2.1\Blog.Core.IRepository.pdb
+D:\MyProgram\MyNetCore\Blog.Core\Blog.Core\bin\Debug\netcoreapp2.1\Blog.Core.Repository.pdb
