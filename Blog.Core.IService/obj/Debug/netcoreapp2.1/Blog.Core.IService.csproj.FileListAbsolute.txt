@@ -6,3 +6,4 @@ D:\MyProgram\MyNetCore\Blog.Core\Blog.Core.IService\obj\Debug\netcoreapp2.1\Blog
 D:\MyProgram\MyNetCore\Blog.Core\Blog.Core.IService\obj\Debug\netcoreapp2.1\Blog.Core.IService.AssemblyInfo.cs
 D:\MyProgram\MyNetCore\Blog.Core\Blog.Core.IService\obj\Debug\netcoreapp2.1\Blog.Core.IService.dll
 D:\MyProgram\MyNetCore\Blog.Core\Blog.Core.IService\obj\Debug\netcoreapp2.1\Blog.Core.IService.pdb
+D:\MyProgram\MyNetCore\Blog.Core\Blog.Core.IService\obj\Debug\netcoreapp2.1\Blog.Core.IService.csprojAssemblyReference.cache
